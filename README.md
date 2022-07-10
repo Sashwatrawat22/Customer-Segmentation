@@ -1,2 +1,2 @@
-# Market-Segmentation
+# Customer Mall-Segmentation using K-Means Clustering
 this project is based on....
