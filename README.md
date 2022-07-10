@@ -13,5 +13,5 @@ Problem Statement
 
 2.Plot a countplot to show the male and female customers.
 
-3.Draw inferences from the dataset using Kmeans Cluster Analysis. for eg. the customers like who can be easily converge [Target Customers] so that the sense can be given to marketing team and plan the strategy accordingly and what age to target for increase of sale.
+3.Draw inferences from the dataset using Kmeans Cluster Analysis. for eg. the customers like who can be easily converge [Target Customers] so that the sense can be given to marketing team and plan the strategy accordingly and also what age group to target for increase of sale.
 
