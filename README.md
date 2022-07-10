@@ -10,6 +10,8 @@ Spending Score is something you assign to the customer based on your defined par
 Problem Statement
 
 1.Plot Age vs Annual Income
+
 2.Plot a countplot to show the male and female customers.
+
 3.Draw inferences from the dataset using Kmeans Cluster Analysis. for eg. the customers like who can be easily converge [Target Customers] so that the sense can be given to marketing team and plan the strategy accordingly and what age to target for increase of sale.
 
