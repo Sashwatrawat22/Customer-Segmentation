@@ -1,4 +1,4 @@
-# Customer Mall-Segmentation using K-Means Clustering 
+# Mall Customer Segmentation using K-Means Clustering 
 
 
 
