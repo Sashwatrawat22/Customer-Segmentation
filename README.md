@@ -9,7 +9,7 @@ Spending Score is something you assign to the customer based on your defined par
 
 Problem Statement
 
-1.Plot Age vs Annual Income
+1.Plot a scatterplot on Age vs Annual Income
 
 2.Plot a countplot to show the male and female customers.
 
